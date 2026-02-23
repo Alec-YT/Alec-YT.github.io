@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Is academia the anarchic ideal of society?"
+title: "Error 404 - privacy not found"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,9 +8,8 @@ redirect_from:
 ---
 
 
-Hi, I am just testing here
+Hi and welcome
 ======
-What's up? Oh my god. 
 
 
 
