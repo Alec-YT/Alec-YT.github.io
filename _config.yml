@@ -24,10 +24,10 @@ repository               : "Alec-YT.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Igor Igunov"
+  name             : "Alec T"
   pronouns         : # example: "she/her"  
-  bio              : "Do you think it's air you're breathing now?"
-  location         : "Citoyen du monde"
+  bio              : "I'm a researcher passionate about numerical methods and particularly machine learning"
+  location         : "Ithaca, NY"
   employer         : "Cornell University"
   uri              : # URL
   email            : "ayt34@cornell.edu" 
