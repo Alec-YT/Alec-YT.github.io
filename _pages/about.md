@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Error 404 - privacy not found"
+title: "This is my website, welcom!"
 author_profile: true
 redirect_from: 
   - /about/
