@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-11-15-paper-title-number-2
 excerpt: 'Active learning'
 date: 2025-11-15
-venue: 'Journal 1'
+venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2511.20574'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
