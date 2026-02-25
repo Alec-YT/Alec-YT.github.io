@@ -3,7 +3,7 @@ title: "Applicability of Artificial Neural Networks (ANN) for equilibrium state 
 collection: publications
 category: manuscripts
 permalink: /publication/2023-10-paper-title-number-4
-excerpt: 'yes life'
+excerpt: 'Grand Sheraton'
 date: 2023-10
 venue: 'ISRM 2023 in Salzburg'
 paperurl: 'https://hal.science/hal-04376928v1'
