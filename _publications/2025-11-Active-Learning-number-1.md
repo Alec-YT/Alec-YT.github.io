@@ -2,7 +2,7 @@
 title: "Active learning with physics-informed neural networks for optimal sensor placement in deep tunneling through transversely isotropic elastic rocks"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2025-11-15-paper-title-number-2
 excerpt: 'Active learning is the new black'
 date: 2025-11-15
 venue: 'Journal 1'
