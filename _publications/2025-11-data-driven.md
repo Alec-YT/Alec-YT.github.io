@@ -1,0 +1,13 @@
+---
+title: "Data-Driven Tools to Evaluate Support Pressure, Radial Displacements, and Face Extrusion for Tunnels Excavated in Elastoplastic Grounds
+category: manuscripts
+permalink: /publication/2024-11-paper-Data-Driven Tools to Evaluate Support Pressure, Radial Displacements, and Face Extrusion for Tunnels Excavated in Elastoplastic Grounds
+category: manuscripts-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2024-10
+venue: 'Journal 1'
+paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/nag.3889'
+bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
+citation: 'https://doi.org/10.1002/nag.3889'
+---
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
