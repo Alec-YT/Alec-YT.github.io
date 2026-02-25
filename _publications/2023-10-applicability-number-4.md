@@ -1,13 +1,13 @@
 ---
-title: "Applicability of Artificial Neural Networks (ANN) for equilibrium state prediction in tunnel excavation"
+title: "Active learning with physics-informed neural networks for optimal sensor placement in deep tunneling through transversely isotropic elastic rocks"
 collection: publications
-category: conferences
-permalink: /publication/2023-10-paper-title-number-4
-excerpt: 'About the story of a single neural network who didn't want to be.'
-date: 2023-10
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://hal.science/hal-04376928v1'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'Active learning is the new black'
+date: 2025-11
+venue: 'Journal 1'
+paperurl: 'https://arxiv.org/abs/2511.20574'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
