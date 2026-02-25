@@ -1,7 +1,7 @@
 ---
 title: "Applicability of Artificial Neural Networks (ANN) for equilibrium state prediction in tunnel excavation"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2023-10-15-paper-title-number-4
 excerpt: 'Grand Sheraton'
 date: 2023-10-15
