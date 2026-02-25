@@ -4,7 +4,7 @@ category: manuscripts
 permalink: /publication/2024-11-test
 category: manuscripts-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2024-11
+date: 2024-11-10
 venue: 'Journal 1'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/nag.3889'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
