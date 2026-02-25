@@ -3,10 +3,10 @@ title: "Analytical solutions considering face advance and time-dependent behavio
 collection: publications
 category: manuscripts
 permalink: /publication/2024-10-paper-Analytical solutions considering face advance and time-dependent behavior for back-analysis of convergence measurements in deep circular tunnels under isotropic initial stress state-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about the story of analytical solutions that just wanted to be found out'
 date: 2024-10
-venue: 'Journal 1'
-paperurl: '[https://academicpages.github.io/files/paper1.pdf](https://www.sciencedirect.com/science/article/pii/S1365160924002314)'
+venue: 'International Journal of Rock Mechanics and Mining Sciences'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1365160924002314'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'https://doi.org/10.1016/j.ijrmms.2024.105866'
 ---
