@@ -2,13 +2,12 @@
 title: "Data-Driven Tools to Evaluate Support Pressure, Radial Displacements, and Face Extrusion for Tunnels Excavated in Elastoplastic Grounds"
 category: manuscripts
 permalink: /publication/2024-11-15-test
-category: manuscripts-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+category: manuscripts
+excerpt: 'Two-dimensional analysis of tunnel design based on the convergence–confinement method, although commonly used in tunnel design, may not always be applied. For example, in squeezing grounds, if the support is installed very close to the tunnel face, three-dimensional numerical modeling is required but is computationally expensive. Therefore, it is usually performed before or after tunnel excavation. A machine learning approach is presented here as an alternative to costly computations. Two surrogate models are developed based on synthetic data. The first model aims to assess the support pressure and the radial displacement at equilibrium in the lining and the radial displacement occurring close to the face at the installation distance of the support. The second model is intended to compute the extrusion of the core considering an unlined gallery. It is assumed a circular tunnel excavated in a Mohr–Coulomb elastoplastic perfectly plastic ground under an initial isotropic stress state. In particular, the bagging method is applied to neural networks to enhance the generalization capability of the models. A good performance is obtained using relatively scarce datasets. The modeling of the surrogate models is explained from the creation of the synthetic datasets to the evaluation of their performance. Their limitations are discussed. In practice, these two machine learning tools should be helpful in the field during the excavation phase.'
 date: 2024-11-15
-venue: 'Journal 1'
+venue: 'International Journal for Numerical and Analytical Methods in Geomechanics'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/nag.3889'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'https://doi.org/10.1002/nag.3889'
+citation: 'Tristani, A., Guayacán-Carrillo, L.-M. and Sulem, J. (2025), Data-Driven Tools to Evaluate Support Pressure, Radial Displacements, and Face Extrusion for Tunnels Excavated in Elastoplastic Grounds. Int J Numer Anal Methods Geomech., 49: 654-664. https://doi.org/10.1002/nag.3889'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
 
