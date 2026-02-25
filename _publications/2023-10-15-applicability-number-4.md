@@ -2,9 +2,9 @@
 title: "Applicability of Artificial Neural Networks (ANN) for equilibrium state prediction in tunnel excavation"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-10-paper-title-number-4
+permalink: /publication/2023-10-15-paper-title-number-4
 excerpt: 'Grand Sheraton'
-date: 2023-10-01
+date: 2023-10-15
 venue: 'ISRM 2023 in Salzburg'
 paperurl: 'https://hal.science/hal-04376928v1'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
