@@ -3,7 +3,7 @@ title: "Applicability of Artificial Neural Networks (ANN) for equilibrium state 
 collection: publications
 category: manuscripts
 permalink: /publication/2023-10-paper-title-number-4
-excerpt: 'About the story of a single neural network who didn't want to be.'
+excerpt: 'yes'
 date: 2025-11
 venue: 'Journal 1'
 paperurl: 'https://arxiv.org/abs/2511.20574'
