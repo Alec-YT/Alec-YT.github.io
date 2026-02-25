@@ -1,7 +1,7 @@
 ---
 title: "Data-Driven Tools to Evaluate Support Pressure, Radial Displacements, and Face Extrusion for Tunnels Excavated in Elastoplastic Grounds"
 category: manuscripts
-permalink: /publication/2024-11-paper-Data-Driven Tools to Evaluate Support Pressure, Radial Displacements, and Face Extrusion for Tunnels Excavated in Elastoplastic Grounds
+permalink: /publication/2024-11-test
 category: manuscripts-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-11
