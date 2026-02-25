@@ -6,7 +6,7 @@ permalink: /publication/2023-10-paper-title-number-4
 excerpt: 'yes life'
 date: 2023-10
 venue: 'ISRM 2023 in Salzburg'
-paperurl: 'https://arxiv.org/abs/2511.20574'
+paperurl: 'https://hal.science/hal-04376928v1'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
