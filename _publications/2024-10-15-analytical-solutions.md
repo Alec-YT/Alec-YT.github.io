@@ -2,7 +2,7 @@
 title: "Analytical solutions considering face advance and time-dependent behavior for back-analysis of convergence measurements in deep circular tunnels under isotropic initial stress state"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-10-paper-Analytical solutions considering face advance and time-dependent behavior for back-analysis of convergence measurements in deep circular tunnels under isotropic initial stress state-number-1
+permalink: /publication/2024-10-15-paper-Analytical solutions considering face advance and time-dependent behavior for back-analysis of convergence measurements in deep circular tunnels under isotropic initial stress state-number-1
 excerpt: 'This paper is about the story of analytical solutions that just wanted to be found out'
 date: 2024-10-15
 venue: 'International Journal of Rock Mechanics and Mining Sciences'
