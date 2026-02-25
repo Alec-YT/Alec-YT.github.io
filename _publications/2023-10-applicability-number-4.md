@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: "Applicability of Artificial Neural Networks (ANN) for equilibrium state prediction in tunnel excavation"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
+permalink: /publication/2023-11-paper-title-number-4
+excerpt: 'About the story of a single neural network who didn't want to be'
+date: 2023-10
 venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://hal.science/hal-04376928v1'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
