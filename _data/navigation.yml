@@ -24,7 +24,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /files/cv_alec_tristani.pdf
+    url: /files/cv_alec_tristani_github.pdf
     target: _blank
     # url: /cv/
     
