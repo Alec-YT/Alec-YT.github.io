@@ -3,7 +3,7 @@ title: "Active learning with physics-informed neural networks for optimal sensor
 collection: publications
 category: manuscripts
 permalink: /publication/2025-11-15-active-learning-pinn-tunneling
-excerpt: ""<img src='/images/paper_2025_active.png'>""
+excerpt: ""
 date: 2025-11-15
 paperurl: "https://arxiv.org/abs/2511.20574"
 citation: ""
