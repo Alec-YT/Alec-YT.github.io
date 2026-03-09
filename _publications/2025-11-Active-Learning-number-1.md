@@ -3,17 +3,31 @@ title: "Active learning with physics-informed neural networks for optimal sensor
 collection: publications
 category: manuscripts
 permalink: /publication/2025-11-15-paper-title-number-2
-excerpt: 'Active learning'
+excerpt: ''
 date: 2025-11-15
 venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2511.20574'
+githuburl: 'https://github.com/YOUR_GITHUB'
 citation: ''
-bibtex: |
-  @article{tristani2025active,
-    title={Active learning with physics-informed neural networks for optimal sensor placement in deep tunneling through transversely isotropic elastic rocks},
-    author={Tristani, Your Name and ...},
-    journal={arXiv preprint arXiv:2511.20574},
-    year={2025}
-  }
 ---
-This paper presents a deep learning strategy to simultaneously solve Partial Differential Equations (PDEs) and back-calculate their parameters in the context of deep tunnel excavation. A Physics-Informed Neural Network (PINN) model is trained with synthetic data that emulates in situ displacement measurements in the host rock and at the cavity wall, obtained from extensometers and convergence monitoring. As acquiring field observations can be costly, a sequential training approach based on active learning is implemented to determine the most informative locations for new sensors. In particular, Monte Carlo dropout is used to quantify epistemic uncertainty and query measurements in regions where the model is least confident. This approach reduces the amount of required field data and optimizes sensor placement. The PINN is tested to reconstruct the displacement field around a deep tunnel of circular section excavated in transversely isotropic elastic rock and to determine rock constitutive and stress-field parameters. Results demonstrate excellent performance on small, scattered, and noisy datasets, achieving high precision for the Young's moduli, shear modulus, horizontal-to-vertical far-field stress ratio, and the orientation of the bedding planes. The proposed framework shall ultimately support decision-making for optimal subsurface monitoring and for adaptive tunnel design and control.
+
+<a href="https://arxiv.org/abs/2511.20574" target="_blank">
+  <img src="/images/paper_2025_active.png" alt="Paper thumbnail" style="width:100%; max-width:600px; border-radius:6px; margin-bottom:12px;">
+</a>
+
+<div style="display:flex; gap:10px; margin-bottom:16px;">
+  <a href="https://arxiv.org/abs/2511.20574" target="_blank" style="padding:6px 12px; background:#b31b1b; color:white; border-radius:4px; text-decoration:none;">📄 Abstract</a>
+  <a href="https://github.com/YOUR_GITHUB" target="_blank" style="padding:6px 12px; background:#24292e; color:white; border-radius:4px; text-decoration:none;">🐙 GitHub</a>
+</div>
+
+<details>
+<summary><strong>BibTeX</strong></summary>
+<pre>
+@article{tristani2025active,
+  title={Active learning with physics-informed neural networks for optimal sensor placement in deep tunneling through transversely isotropic elastic rocks},
+  author={Tristani, Your Name and ...},
+  journal={arXiv preprint arXiv:2511.20574},
+  year={2025}
+}
+</pre>
+</details>
