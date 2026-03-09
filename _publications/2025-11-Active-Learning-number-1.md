@@ -1,10 +1,14 @@
 ---
-title: "Active learning with physics-informed neural networks for optimal sensor placement in deep tunneling through transversely isotropic elastic rocks"
+title: "Mon article"
 collection: publications
-category: manuscripts
-permalink: /publication/2025-11-15-active-learning-pinn-tunneling
-excerpt: ""
-date: 2025-11-15
-paperurl: "https://arxiv.org/abs/2511.20574"
-citation: ""
+date: 2024-01-01
+venue: "NeurIPS"
+excerpt: "Courte description..."
+header:
+  teaser: "publications/mon-image.png"   # ← image affichée à gauche
+paperurl: "https://arxiv.org/abs/xxxx"
+codeurl: "https://github.com/user/repo"
+demourl: "https://demo.example.com"
+slidesurl: "https://slides.example.com"
+bibtexurl: "https://..."
 ---
