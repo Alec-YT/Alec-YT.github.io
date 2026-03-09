@@ -2,11 +2,25 @@
 title: "Data-Driven Tools to Evaluate Support Pressure, Radial Displacements, and Face Extrusion for Tunnels Excavated in Elastoplastic Grounds"
 category: manuscripts
 permalink: /publication/2024-11-15-test
+collection: publications
 category: manuscripts
+header:
+  teaser: "publications/u_var_current_next_step_2_extensometer_mode.png"
 excerpt: ''
 date: 2024-11-15
 venue: 'International Journal for Numerical and Analytical Methods in Geomechanics'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/nag.3889'
-citation: 'Tristani, A., Guayacán-Carrillo, L.-M. and Sulem, J. (2025), Data-Driven Tools to Evaluate Support Pressure, Radial Displacements, and Face Extrusion for Tunnels Excavated in Elastoplastic Grounds. Int J Numer Anal Methods Geomech., 49: 654-664. https://doi.org/10.1002/nag.3889'
+bibtex: |
+  @article{tristani2025data,
+    title={Data-Driven Tools to Evaluate Support Pressure, Radial Displacements, and Face Extrusion for Tunnels Excavated in Elastoplastic Grounds},
+    author={Tristani, Alec and Guayac{\'a}n-Carrillo, Lina-Mar{\'\i}a and Sulem, Jean},
+    journal={International Journal for Numerical and Analytical Methods in Geomechanics},
+    doi = {https://doi.org/10.1002/nag.3889},
+    volume={49},
+    number={2},
+    pages={654--664},
+    year={2025},
+    publisher={Wiley Online Library}
+  }
 ---
-Two-dimensional analysis of tunnel design based on the convergence–confinement method, although commonly used in tunnel design, may not always be applied. For example, in squeezing grounds, if the support is installed very close to the tunnel face, three-dimensional numerical modeling is required but is computationally expensive. Therefore, it is usually performed before or after tunnel excavation. A machine learning approach is presented here as an alternative to costly computations. Two surrogate models are developed based on synthetic data. The first model aims to assess the support pressure and the radial displacement at equilibrium in the lining and the radial displacement occurring close to the face at the installation distance of the support. The second model is intended to compute the extrusion of the core considering an unlined gallery. It is assumed a circular tunnel excavated in a Mohr–Coulomb elastoplastic perfectly plastic ground under an initial isotropic stress state. In particular, the bagging method is applied to neural networks to enhance the generalization capability of the models. A good performance is obtained using relatively scarce datasets. The modeling of the surrogate models is explained from the creation of the synthetic datasets to the evaluation of their performance. Their limitations are discussed. In practice, these two machine learning tools should be helpful in the field during the excavation phase.
+
