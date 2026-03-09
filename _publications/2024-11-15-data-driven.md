@@ -5,7 +5,7 @@ permalink: /publication/2024-11-15-test
 collection: publications
 category: manuscripts
 header:
-  teaser: "publications/u_var_current_next_step_2_extensometer_mode.png"
+  teaser: "publications/data_driven.png"
 excerpt: ''
 date: 2024-11-15
 venue: 'International Journal for Numerical and Analytical Methods in Geomechanics'
