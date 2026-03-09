@@ -9,6 +9,15 @@ excerpt: 'New analytical solutions are derived considering both face advance and
 date: 2024-10-15
 venue: 'International Journal of Rock Mechanics and Mining Sciences'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1365160924002314'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'https://doi.org/10.1016/j.ijrmms.2024.105866'
+bibtex: |
+  @article{tristani2024analytical,
+    title={Analytical solutions considering face advance and time-dependent behavior for back-analysis of convergence measurements in deep circular       tunnels under isotropic initial stress state},
+    author={Tristani, Alec and Sulem, Jean and Guayac{\'a}n-Carrillo, Lina-Mar{\'\i}a},
+    journal={International Journal of Rock Mechanics and Mining Sciences},
+    volume={182},
+    pages={105866},
+    year={2024},
+    publisher={Elsevier},
+    doi = {https://doi.org/10.1016/j.ijrmms.2024.105866}
+  }
 ---
