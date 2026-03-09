@@ -42,13 +42,23 @@
       <div style="flex: 1; min-width: 0;">
 
         <!-- Titre -->
-        <h2 class="archive__item-title" itemprop="headline" style="margin-top: 0;">
+        <!-- <h2 class="archive__item-title" itemprop="headline" style="margin-top: 0;">
           {% if post.link %}
             <a href="{{ post.link }}">{{ title }}</a>
             <a href="{{ base_path }}{{ post.url }}" rel="permalink">
               <i class="fa fa-link" aria-hidden="true" title="permalink"></i>
               <span class="sr-only">Permalink</span>
             </a>
+          {% else %}
+            <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+          {% endif %}
+        </h2> -->
+        
+        <h2 class="archive__item-title" itemprop="headline" style="margin-top: 0;">
+          {% if post.paperurl %}
+            <a href="{{ post.paperurl }}" target="_blank">{{ title }}</a>
+          {% elsif post.link %}
+            <a href="{{ post.link }}">{{ title }}</a>
           {% else %}
             <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
           {% endif %}
