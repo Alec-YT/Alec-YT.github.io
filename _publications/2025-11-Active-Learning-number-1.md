@@ -7,11 +7,9 @@ excerpt: ''
 date: 2025-11-15
 venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2511.20574'
-
 <a href="https://arxiv.org/abs/2511.20574" target="_blank">
   <img src="/images/paper_2025_active.png" alt="Paper thumbnail" style="width:100%; max-width:600px; border-radius:6px; margin-bottom:12px;">
 </a>
-
 <div style="display:flex; gap:10px; margin-bottom:16px;">
   <a href="https://arxiv.org/abs/2511.20574" target="_blank">
     <img src="https://img.shields.io/badge/arXiv-2511.20574-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv">
@@ -20,7 +18,6 @@ paperurl: 'https://arxiv.org/abs/2511.20574'
     <img src="https://img.shields.io/badge/GitHub-Code-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
-
 <details>
 <summary><strong>BibTeX</strong></summary>
 <pre>
