@@ -7,17 +7,18 @@ excerpt: ''
 date: 2025-11-15
 venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2511.20574'
-githuburl: 'https://github.com/YOUR_GITHUB'
-citation: ''
----
 
 <a href="https://arxiv.org/abs/2511.20574" target="_blank">
   <img src="/images/paper_2025_active.png" alt="Paper thumbnail" style="width:100%; max-width:600px; border-radius:6px; margin-bottom:12px;">
 </a>
 
 <div style="display:flex; gap:10px; margin-bottom:16px;">
-  <a href="https://arxiv.org/abs/2511.20574" target="_blank" style="padding:6px 12px; background:#b31b1b; color:white; border-radius:4px; text-decoration:none;">📄 Abstract</a>
-  <a href="https://github.com/YOUR_GITHUB" target="_blank" style="padding:6px 12px; background:#24292e; color:white; border-radius:4px; text-decoration:none;">🐙 GitHub</a>
+  <a href="https://arxiv.org/abs/2511.20574" target="_blank">
+    <img src="https://img.shields.io/badge/arXiv-2511.20574-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv">
+  </a>
+  <a href="https://github.com/alec-yt" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Code-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </div>
 
 <details>
@@ -31,3 +32,4 @@ citation: ''
 }
 </pre>
 </details>
+---
