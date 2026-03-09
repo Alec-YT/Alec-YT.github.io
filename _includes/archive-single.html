@@ -42,18 +42,6 @@
       <div style="flex: 1; min-width: 0;">
 
         <!-- Titre -->
-        <!-- <h2 class="archive__item-title" itemprop="headline" style="margin-top: 0;">
-          {% if post.link %}
-            <a href="{{ post.link }}">{{ title }}</a>
-            <a href="{{ base_path }}{{ post.url }}" rel="permalink">
-              <i class="fa fa-link" aria-hidden="true" title="permalink"></i>
-              <span class="sr-only">Permalink</span>
-            </a>
-          {% else %}
-            <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-          {% endif %}
-        </h2> -->
-        
         <h2 class="archive__item-title" itemprop="headline" style="margin-top: 0;">
           {% if post.paperurl %}
             <a href="{{ post.paperurl }}" target="_blank">{{ title }}</a>
@@ -111,15 +99,27 @@
             </a>
           {% endif %}
 
-          {% if post.bibtexurl %}
-            <a href="{{ post.bibtexurl }}" target="_blank"
-               style="padding: 4px 14px; background: #6a0dad; color: white;
-                      border-radius: 4px; font-size: 0.82em; text-decoration: none;">
+          {% if post.bibtex %}
+            <button onclick="
+              var el = document.getElementById('bibtex-{{ post.slug }}');
+              el.style.display = el.style.display === 'none' ? 'block' : 'none';
+            "
+            style="padding: 4px 14px; background: #6a0dad; color: white;
+                   border: none; border-radius: 4px; font-size: 0.82em; cursor: pointer;">
               📋 BibTeX
-            </a>
+            </button>
           {% endif %}
 
         </div>
+
+        <!-- BibTeX block OUTSIDE the flex row -->
+        {% if post.bibtex %}
+          <div id="bibtex-{{ post.slug }}" style="display:none; margin-top: 10px;">
+            <pre style="background: #f4f4f4; padding: 10px; border-radius: 4px;
+                        font-size: 0.78em; overflow-x: auto; white-space: pre-wrap;">{{ post.bibtex }}</pre>
+          </div>
+        {% endif %}
+
       </div>
     </div>
     <!-- ===== FIN LAYOUT PUBLICATION ===== -->
