@@ -11,7 +11,7 @@ venue: 'International Journal of Rock Mechanics and Mining Sciences'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1365160924002314'
 bibtex: |
   @article{tristani2024analytical,
-    title={Analytical solutions considering face advance and time-dependent behavior for back-analysis of convergence measurements in deep circular       tunnels under isotropic initial stress state},
+    title={Analytical solutions considering face advance and time-dependent behavior for back-analysis of convergence measurements in deep circular tunnels under isotropic initial stress state},
     author={Tristani, Alec and Sulem, Jean and Guayac{\'a}n-Carrillo, Lina-Mar{\'\i}a},
     journal={International Journal of Rock Mechanics and Mining Sciences},
     volume={182},
