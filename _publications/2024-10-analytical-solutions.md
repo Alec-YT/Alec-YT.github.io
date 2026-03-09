@@ -11,4 +11,3 @@ paperurl: 'https://www.sciencedirect.com/science/article/pii/S1365160924002314'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'https://doi.org/10.1016/j.ijrmms.2024.105866'
 ---
-'https://www.sciencedirect.com/science/article/pii/S1365160924002314'
