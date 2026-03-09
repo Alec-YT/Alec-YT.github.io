@@ -5,7 +5,7 @@ permalink: /publication/2024-11-15-test
 collection: publications
 category: manuscripts
 header:
-  teaser: "publications/data_driven.png"
+  teaser: "publications/bagging.png"
 excerpt: 'A methodology for training machine learning surrogate models is presented in the context of tunneling. In particular, bagging is applied to neural networks and synthetic datasets are created to predict the ground-lining interaction as well as the extrusion of the face of deep tunnels excavated in elastoplastic grounds.'
 date: 2024-11-15
 venue: 'International Journal for Numerical and Analytical Methods in Geomechanics'
