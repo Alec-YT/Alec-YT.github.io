@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-11-Active-Learning-number-1
 header:
-  teaser: "publications/analytical_solutions.png"
+  teaser: "publications/u_var_current_next_step_2_extensometer_mode.png"
 excerpt: 'We train a physics-informed neural network using active learning to query the most informative sensors while excavating a tunnel in a transversely isotropic ground. The methodology shows an excellent performance and is robust to small to moderate amounts of noise in the data. '
 date: 2024-10-15
 venue: 'International Journal of Rock Mechanics and Mining Sciences'
