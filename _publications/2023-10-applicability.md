@@ -19,4 +19,3 @@ bibtex: |
     organization={ISRM}
   }
 ---
-
