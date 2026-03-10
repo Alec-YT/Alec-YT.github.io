@@ -6,7 +6,6 @@ redirect_from:
   - /about.html
 ---
 
-
 # Bio 
 Hi! I'm a researcher passionate about numerical methods and particularly machine learning for underground constructions. I am currently a postdoctoral researcher at Cornell University and I obtained my PhD at École Nationale des Ponts et Chaussées in France. I was recently awarded the 2025 Pierre Londe prize by the French committee of rock mechanics. 
 
