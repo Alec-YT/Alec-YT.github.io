@@ -10,13 +10,13 @@ date: 2023-10-15
 venue: 'ISRM 2023 in Salzburg'
 paperurl: 'https://onepetro.org/isrmcongress/proceedings-abstract/CONGRESS23/CONGRESS23/540075'
 bibtex: |
-@inproceedings{tristani2023applicability,
-  title={Applicability of Artificial Neural Networks (ANN) for equilibrium state prediction in tunnel excavation},
-  author={Tristani, Alec and Guayac{\'a}n-Carrillo, Lina-Mar{\'\i}a and Sulem, Jean and Donzis, Sebasti{\'a}n Ariel},
-  booktitle={ISRM Congress},
-  pages={ISRM--15CONGRESS},
-  year={2023},
-  organization={ISRM}
-}
+  @inproceedings{tristani2023applicability,
+    title={Applicability of Artificial Neural Networks (ANN) for equilibrium state prediction in tunnel excavation},
+    author={Tristani, Alec and Guayac{\'a}n-Carrillo, Lina-Mar{\'\i}a and Sulem, Jean and Donzis, Sebasti{\'a}n Ariel},
+    booktitle={ISRM Congress},
+    pages={ISRM--15CONGRESS},
+    year={2023},
+    organization={ISRM}
+  }
 ---
 
