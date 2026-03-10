@@ -17,7 +17,7 @@ My research aims to develop computational methods for simulating underground con
 # Teaching and Tutorials
 At Cornell University, I supervise a team of undergraduate students working on the design of utilidors — shallow tunnels in New York City intended to house utilities. The project involves traditional numerical modeling using finite difference methods and the implementation of machine learning surrogate models. 
 
-As part of my postdoc, I created an interactive online book of [hands-on tutorials](https://alec-yt.github.io/STAI-TUNED/) on applying scientific machine learning to tunnel design.  
+As part of my postdoc, I created an interactive online book of [hands-on tutorials](https://alec-yt.github.io/STAI-TUNED/) on applying scientific machine learning to tunnel design and underground construction. 
 
 
 
