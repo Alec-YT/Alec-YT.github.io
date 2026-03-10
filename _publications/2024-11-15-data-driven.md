@@ -10,6 +10,7 @@ excerpt: 'A methodology is presented for training machine learning surrogate mod
 date: 2024-11-15
 venue: 'International Journal for Numerical and Analytical Methods in Geomechanics'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/nag.3889'
+demourl:'https://huggingface.co/spaces/AlecT/Tunnels'
 bibtex: |
   @article{tristani2025data,
     title={Data-Driven Tools to Evaluate Support Pressure, Radial Displacements, and Face Extrusion for Tunnels Excavated in Elastoplastic Grounds},
@@ -22,6 +23,4 @@ bibtex: |
     year={2025},
     publisher={Wiley Online Library}
   }
-demourl:'https://huggingface.co/spaces/AlecT/Tunnels'
 ---
-
