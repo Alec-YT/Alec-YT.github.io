@@ -8,15 +8,12 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  # - title: "Research"
-  #   url: /publications/
+  - title: "Publications"
+    url: /publications/
 
-  # - title: "Tutorials"
-  #   url: https://alec-yt.github.io/STAI-TUNED/
+  - title: "Tutorials"
+    url: https://alec-yt.github.io/STAI-TUNED/
   
-nav:
-  - Bio: "#bio"
-  - Research: "#research"
 
   # - title: "Talks"
   #   url: /talks/    
