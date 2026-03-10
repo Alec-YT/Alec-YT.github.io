@@ -22,6 +22,6 @@ bibtex: |
     year={2025},
     publisher={Wiley Online Library}
   }
-  codeurl:'https://huggingface.co/spaces/AlecT/Tunnels'
+  demourl:'https://huggingface.co/spaces/AlecT/Tunnels'
 ---
 
