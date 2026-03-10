@@ -5,6 +5,7 @@ category: manuscripts
 permalink: /publication/2025-11-Active-Learning-number-1
 authors: 
   - name: "Alec Tristani"
+    highlight: true
   - name: "Chloé Arson"
 header:
   teaser: "publications/u_var_current_next_step_2_extensometer_mode.png"
