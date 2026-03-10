@@ -1,0 +1,24 @@
+.publication-layout {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 1.5em;
+  align-items: flex-start;
+}
+
+.publication-image {
+  flex: 0 0 320px;
+}
+
+@media (max-width: 768px) {
+
+  .publication-layout {
+    flex-direction: column;
+  }
+
+  .publication-image {
+    flex: none;
+    width: 100%;
+    max-width: 300px;
+  }
+
+}
