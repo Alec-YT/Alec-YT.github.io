@@ -52,6 +52,16 @@
           {% endif %}
         </h2>
 
+        <!-- Authors -->
+        {% if post.authors %}
+          <p style="margin: 4px 0 8px; font-size: 0.85em; color: #555;">
+            <strong>Authors:</strong>
+            {% for author in post.authors %}
+              {{ author.name }}{% if forloop.last == false %}, {% endif %}
+            {% endfor %}
+          </p>
+        {% endif %}
+
         <!-- Venue & date -->
         <p style="margin: 4px 0 8px; font-style: italic; color: #777; font-size: 0.9em;">
           {{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}
@@ -88,6 +98,14 @@
                style="padding: 4px 14px; background: #e25c2a; color: white;
                       border-radius: 4px; font-size: 0.82em; text-decoration: none;">
               Demo
+            </a>
+          {% endif %}
+
+          {% if post.abstract %}
+            <a href="{{ post.abstract }}" target="_blank"
+               style="padding: 4px 14px; background: #1b5e20; color: white;
+                      border-radius: 4px; font-size: 0.82em; text-decoration: none;">
+              Abstract
             </a>
           {% endif %}
 
