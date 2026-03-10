@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2024-10-15-paper-number-1
 header:
-  teaser: "publications/analytical_solutions.png"
+  teaser: "publications/Bagging_members_model_3.png"
 excerpt: 'A machine learning surrogate model is developed to predict the short-term ground-lining interaction of deep tunnels. Synthetic data is generated based on a 2D axisymetric numerical model. Bagging is applied to neural network to enhance generalization.'
 date: 2023-10-15
 venue: 'ISRM 2023 in Salzburg'
