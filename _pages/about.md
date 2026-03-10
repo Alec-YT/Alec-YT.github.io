@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 
-# Bio
+# Bio {#bio}
 Hi! I'm a researcher passionate about numerical methods and particularly machine learning for underground constructions. I am currently a postdoctoral researcher at Cornell University and I obtained my PhD at École Nationale des Ponts et Chaussées in France. I was recently awarded the 2025 Pierre Londe prize by the French committe of rock mechanics. 
 
-# Research
+# Research {#research}
 My research aims to develop computational methods for simulating underground constructions, particularly tunnels. I focus on scientific machine learning for inverse and surrogate modeling, and on computational optimal experimental design to identify the most informative sensor placement strategies and improve model calibration.
 
-# Teaching
+# Teaching {#tutorial}
 At Cornell University, I supervise a team of undergraduate students working on the design of utilidors — shallow tunnels in New York City intended to house utilities. The project involves traditional numerical modeling using finite difference methods and the implementation of machine learning surrogate models.
 
 
