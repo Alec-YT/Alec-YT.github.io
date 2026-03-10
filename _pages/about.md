@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Here is my website, welcome!"
+title: "Alec Tristani"
 author_profile: true
 redirect_from: 
   - /about/
