@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2025-06-15-paper-title-number-4
 header:
-  teaser: "publications/Bagging_members_model_3.png"
+  teaser: "publications/2D_model_zoom_in_annotated.png"
 excerpt: "A physics-informed machine learning algorithm is developed to predict the long-term ground-lining interaction of deep tunnels. Synthetic data are generated from a 2D plane-strain numerical model, and bagging is applied to the neural network to improve generalization."
 date: 2025-06-15
 venue: '59th U.S. Rock Mechanics/Geomechanics Symposium, Santa Fe, New Mexico, June 2025'
