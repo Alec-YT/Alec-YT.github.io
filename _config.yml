@@ -23,7 +23,7 @@ repository               : "Alec-YT.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "croped.jpeg"
+  avatar           : "photo.jpg"
   name             : "Alec Tristani"
   # pronouns         : ""
   bio              : "Postdoc @ Cornell University"
