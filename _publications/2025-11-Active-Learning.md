@@ -21,4 +21,6 @@ bibtex: |
     doi={10.48550/arXiv.2511.20574},
   }
 codeurl: 'https://github.com/Alec-YT/AL-Tunnel'
+abstract: |
+  Bla bla bla
 ---
