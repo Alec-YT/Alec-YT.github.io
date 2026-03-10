@@ -54,17 +54,32 @@
 
         <!-- Authors -->
         {% if post.authors %}
-          <p class="publication-authors">
+          <p class="publication-authors" style="font-size: 0.88em; margin: 4px 0 8px;">
             {% for author in post.authors %}
               {{ author.name }}{% if forloop.last == false %}, {% endif %}
             {% endfor %}
           </p>
         {% endif %}
+
+        <!-- Authors -->
+        <!-- {% if post.authors %} -->
+          <!-- <p style="margin: 4px 0 8px; font-size: 0.88em;"> -->
+            <!-- <strong>Authors:</strong> -->
+            <!-- {% for author in post.authors %}
+              {{ author.name }}{% if forloop.last == false %}, {% endif %}
+            {% endfor %}
+          </p>
+        {% endif %} -->
         
         <!-- Venue & date -->
         <p class="publication-venue">
           {{ post.venue }}, {{ post.date | date: "%Y" }}
         </p>
+
+        <!-- Venue & date -->
+        <!-- <p style="margin: 4px 0 8px; font-style: italic; font-size: 0.9em;">
+          {{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+        </p> -->
 
         <!-- Excerpt -->
         {% if post.excerpt %}
