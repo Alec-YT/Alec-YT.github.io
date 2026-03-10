@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Alec Tristani"
 author_profile: true
 redirect_from: 
   - /about/
