@@ -54,8 +54,8 @@
 
         <!-- Authors -->
         {% if post.authors %}
-          <p style="margin: 4px 0 8px; font-size: 0.88em; color: #555;">
-            <strong>Authors:</strong>
+          <p style="margin: 4px 0 8px; font-size: 0.88em;">
+            <!-- <strong>Authors:</strong> -->
             {% for author in post.authors %}
               {{ author.name }}{% if forloop.last == false %}, {% endif %}
             {% endfor %}
@@ -138,8 +138,9 @@
         <!-- BibTeX block -->
         {% if post.bibtex %}
           <div id="bibtex-{{ post.slug }}" style="display:none; margin-top: 10px;">
-            <pre style="background: #f4f4f4; padding: 10px; border-radius: 4px;
-                        font-size: 0.78em; overflow-x: auto; white-space: pre-wrap;">{{ post.bibtex }}</pre>
+            <!-- <pre style="background: #f4f4f4; padding: 10px; border-radius: 4px;
+                        font-size: 0.78em; overflow-x: auto; white-space: pre-wrap;">{{ post.bibtex }}</pre> -->
+            <pre class="bibtex-block">{{ post.bibtex }}</pre>
           </div>
         {% endif %}
 
