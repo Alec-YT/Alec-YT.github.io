@@ -17,7 +17,6 @@ main:
 nav:
   - Bio: "#bio"
   - Research: "#research"
-  - Publications: "#publications"
 
   # - title: "Talks"
   #   url: /talks/    
