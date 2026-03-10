@@ -24,9 +24,9 @@ repository               : "Alec-YT.github.io"
 author:
   # Biographic information
   # avatar           : "profile.png"
-  avatar           : "photo.png"
+  avatar           : "photo.jpg"
   name             : "Alec Tristani"
-  pronouns         : # example: "she/her"  
+  # pronouns         : ""
   bio              : "Postdoc @ Cornell University"
   location         : "Ithaca, NY"
   employer         : "Cornell University"
