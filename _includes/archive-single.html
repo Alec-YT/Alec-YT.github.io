@@ -54,7 +54,7 @@
 
         <!-- Authors -->
         {% if post.authors %}
-          <p class="publication-authors" style="font-size: 0.88em;">
+          <p class="publication-authors">
             {% for author in post.authors %}
               {{ author.name }}{% if forloop.last == false %}, {% endif %}
             {% endfor %}
