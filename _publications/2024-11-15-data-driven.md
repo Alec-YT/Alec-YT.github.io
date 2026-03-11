@@ -1,7 +1,7 @@
 ---
 title: "Data-Driven Tools to Evaluate Support Pressure, Radial Displacements, and Face Extrusion for Tunnels Excavated in Elastoplastic Grounds"
 category: manuscripts
-permalink: /publication/2024-11-15-test
+permalink: /publication/2024-11-15-data-driven
 collection: publications
 category: manuscripts
 authors:
@@ -12,7 +12,7 @@ authors:
 header:
   teaser: "publications/bagging.png"
 excerpt: 'A methodology is presented for training machine learning surrogate models in the context of tunneling. In particular, bagging is applied to neural networks and synthetic datasets are created to predict the ground-lining interaction as well as the extrusion of the face of deep tunnels excavated in elastoplastic grounds.'
-date: 2024-11-15
+date: "2024-11-15"
 venue: 'International Journal for Numerical and Analytical Methods in Geomechanics'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/nag.3889'
 demourl: 'https://huggingface.co/spaces/AlecT/Tunnels'
