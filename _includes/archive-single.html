@@ -148,6 +148,15 @@
 
         </div>
 
+        <!-- Abstract block -->
+        {% if post.abstract %}
+          <div id="abstract-{{ post.slug }}" style="display:none; margin-top: 10px;">
+            <pre class="abstract-block">
+        {{ post.abstract }}
+            </pre>
+          </div>
+        {% endif %}
+
         <!-- BibTeX block -->
         {% if post.bibtex %}
           <div id="bibtex-{{ post.slug }}" style="display:none; margin-top: 10px;">
@@ -166,13 +175,7 @@
           </div>
         {% endif %} -->
 
-        {% if post.abstract %}
-          <div id="abstract-{{ post.slug }}" style="display:none; margin-top: 10px;">
-            <pre class="abstract-block">
-        {{ post.abstract }}
-            </pre>
-          </div>
-        {% endif %}
+
 
       </div>
     </div>
