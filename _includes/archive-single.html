@@ -22,6 +22,8 @@
       <!-- Left image -->
       <div class="publication-image">
         {% if teaser %}
+        {% if post.paperurl %}
+        <a href="{{ post.paperurl }}" target="_blank">{{ title }}</a>
           <img src=
             {% if teaser contains "://" %}
               "{{ teaser }}"
