@@ -3,6 +3,11 @@ title: "Optimization search to characterize the time-dependent behavior of rock 
 collection: publications
 category: conferences
 permalink: /publication/2024-08-15-paper-title-number-4
+authors:
+  - name: "Alec Tristani"
+    hightligh: true
+  - name: "Jean Sulem"
+  - name: "Lina-María Guayacán-Carrillo"
 header:
   teaser: "publications/Optimization_smp2.png"
 excerpt: "A new closed-form solution is derived for a fractional viscoelastic-plastic ground. Assuming instantaneous excavation, convergence measurements are back-analyzed using least-squares optimization to determine the constitutive parameters. The methodology is demonstrated on the Saint-Martin-La-Porte access gallery to showcase the performance of the approach."
