@@ -117,19 +117,6 @@
           {% endif %}
 
           {% if post.abstract %}
-          <!-- #2e7d32  -->
-          <!-- 1b5e20 -->
-            <button onclick="
-              var el = document.getElementById('abstract-{{ post.slug }}');
-              el.style.display = el.style.display === 'none' ? 'block' : 'none';
-            "
-            style="padding: 4px 14px; background: #2e7d32; color: white;
-                   border: none; border-radius: 4px; font-size: 0.82em; cursor: pointer;">
-              Abstract
-            </button>
-          {% endif %}
-
-          {% if post.abstract %}
             <button onclick="
               var el = document.getElementById('abstract-{{ post.slug }}');
               el.style.display = el.style.display === 'none' ? 'block' : 'none';
@@ -170,10 +157,18 @@
           </div>
         {% endif %}
 
-        {% if post.abstract %}
+        <!-- {% if post.abstract %}
           <div id="abstract-{{ post.slug }}" style="display:none; margin-top: 10px;">
             <pre class="abstract-block" style="background: #f4f4f4; padding: 10px; border-radius: 4px;
                                                 font-size: 0.78em; overflow-x: auto; white-space: pre-wrap;">
+        {{ post.abstract }}
+            </pre>
+          </div>
+        {% endif %} -->
+
+        {% if post.abstract %}
+          <div id="abstract-{{ post.slug }}" style="display:none; margin-top: 10px;">
+            <pre class="abstract-block">
         {{ post.abstract }}
             </pre>
           </div>
