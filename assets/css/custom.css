@@ -33,6 +33,12 @@
   white-space: normal;
 }
 
+.bibtex-block {
+  background: #f4f4f4;   
+  color: #111;          
+  font-size: 0.78em;
+}
+
 /* Mode sombre */
 /* @media (prefers-color-scheme: dark) {
   .abstract-block {
