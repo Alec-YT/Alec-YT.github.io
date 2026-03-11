@@ -2,13 +2,14 @@
 title: "Enriching tunnel behavior analysis with artificial intelligence tools"
 collection: publications
 category: thesis
-permalink: /publication/2025-10-phd-thesis
+permalink: /publication/2024-10-phd-thesis
 authors: 
   - name: "Alec Tristani"
     highlight: true
 header:
   teaser: "publications/thesis.png"
-venue: 'École Nationale des Ponts et Chaussées, 25 October 2024'
+venue: 'École Nationale des Ponts et Chaussées'
+date: '2024-10-25'
 paperurl: 'https://pastel.hal.science/tel-04971183/'
 bibtex: |
   @phdthesis{tristani_phd,
