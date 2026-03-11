@@ -8,8 +8,7 @@ authors:
     highlight: true
 header:
   teaser: "publications/thesis.png"
-date: "25 October 2029"
-venue: 'École Nationale des Ponts et Chaussées'
+venue: 'École Nationale des Ponts et Chaussées, 25 October 2024'
 paperurl: 'https://pastel.hal.science/tel-04971183/'
 bibtex: |
   @phdthesis{tristani_phd,
