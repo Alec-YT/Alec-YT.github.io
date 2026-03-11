@@ -3,6 +3,11 @@ title: "Applicability of Artificial Neural Networks (ANN) for equilibrium state 
 collection: publications
 category: conferences
 permalink: /publication/2024-10-15-paper-number-1
+authors:
+- name: "Alec Tristani"
+  highlight: true
+- name: "Lina-María Guayacán-Carrillo"
+- name: "Jean Sulem"
 header:
   teaser: "publications/Bagging_members_model_3.png"
 excerpt: 'A machine learning surrogate model is developed to predict the short-term ground-lining interaction of deep tunnels. Synthetic data is generated based on a 2D axisymetric numerical model. Bagging is applied to neural network to enhance generalization.'
