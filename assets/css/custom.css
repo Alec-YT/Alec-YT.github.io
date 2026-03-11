@@ -39,6 +39,11 @@
   font-size: 0.78em;
 }
 
+.author-highlight {
+  text-decoration: underline;
+  font-weight: 600;
+}
+
 /* Mode sombre */
 /* @media (prefers-color-scheme: dark) {
   .abstract-block {
