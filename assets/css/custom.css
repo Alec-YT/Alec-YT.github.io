@@ -22,3 +22,21 @@
   }
 
 }
+
+.abstract-block {
+  background: #f4f4f4;   /* gris clair */
+  color: #111;           /* texte sombre */
+  padding: 10px;
+  border-radius: 4px;
+  font-size: 0.78em;
+  overflow-x: auto;
+  white-space: pre-wrap;
+}
+
+/* Mode sombre */
+@media (prefers-color-scheme: dark) {
+  .abstract-block {
+    background: #1e1e1e; /* gris très foncé */
+    color: #f0f0f0;      /* texte clair */
+  }
+}
