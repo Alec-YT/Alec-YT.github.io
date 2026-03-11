@@ -8,7 +8,7 @@ authors:
     highlight: true
 header:
   teaser: ""
-date: 25 October 2024
+date: "25 October 2024"
 venue: 'École Nationale des Ponts et Chaussées'
 paperurl: 'https://pastel.hal.science/tel-04971183/'
 bibtex: |
