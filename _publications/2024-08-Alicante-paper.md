@@ -23,5 +23,7 @@ bibtex: |
     year={2025},
     organization={ARMA},
     doi={https://doi.org/10.56952/ARMA-2025-0533}
-  }
+  } 
+abstract:
+  The aim of the study is to back analyze the constitutive parameters of the ground from in-situ convergence measurements in tunnels. Considering an instantaneous excavation, a viscoelastic plastic constitutive law is used to characterize the behavior of the ground. The time-dependent effects are described according to a fractional viscoelastic model. Then, using an empirical law to extrapolate the convergences to the long term, the parameters of the constitutive law are calibrated through an optimization process based on the least squares method. Synthetic data and convergences measured from the Saint-Martin-La-Porte access gallery are used to illustrate the performance of the approach. Results show a good fit of the convergence curve. This process could therefore be used as a way to automatically calibrate the constitutive parameters from in-situ data. It could also be generalized to other relevant constitutive models of the ground.
 ---
