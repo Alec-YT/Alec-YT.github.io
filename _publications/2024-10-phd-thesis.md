@@ -7,7 +7,7 @@ authors:
   - name: "Alec Tristani"
     highlight: true
 header:
-  teaser: "images/thesis.png"
+  teaser: "publications/thesis.png"
 date: "25 October 2029"
 venue: 'École Nationale des Ponts et Chaussées'
 paperurl: 'https://pastel.hal.science/tel-04971183/'
