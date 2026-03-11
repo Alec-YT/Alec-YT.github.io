@@ -2,7 +2,7 @@
 title: "A physics-informed machine learning surrogate model to assess the long-term ground-lining interaction in viscoelastic plastic grounds"
 collection: publications
 category: conferences
-permalink: /publication/2025-06-15-paper-title-number-4
+permalink: /publication/2025-06-ARMA-paper
 authors:
   - name: "Alec Tristani"
     highlight: true
@@ -11,8 +11,8 @@ authors:
 header:
   teaser: "publications/2D_model_zoom_in_annotated.png"
 excerpt: "A physics-informed machine learning algorithm is developed to predict the long-term ground-lining interaction of deep tunnels. Synthetic data are generated from a 2D plane-strain numerical model, and bagging is applied to the neural network to improve generalization."
-date: 2025-06-15
-venue: '59th U.S. Rock Mechanics/Geomechanics Symposium, Santa Fe, New Mexico, June 2025'
+date: "2025-06-15"
+venue: '59th U.S. Rock Mechanics/Geomechanics Symposium, Santa Fe, New Mexico'
 paperurl: 'https://onepetro.org/ARMAUSRMS/proceedings-abstract/ARMA25/ARMA25/786282'
 bibtex: |
   @inproceedings{tristani2025physics,
