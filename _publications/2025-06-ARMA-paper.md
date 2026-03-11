@@ -3,6 +3,11 @@ title: "A physics-informed machine learning surrogate model to assess the long-t
 collection: publications
 category: conferences
 permalink: /publication/2025-06-15-paper-title-number-4
+authors:
+- name: "Alec Tristani"
+  highlight: true
+- name: "Lina-María Guayacán-Carrillo"
+- name: "Jean Sulem"
 header:
   teaser: "publications/2D_model_zoom_in_annotated.png"
 excerpt: "A physics-informed machine learning algorithm is developed to predict the long-term ground-lining interaction of deep tunnels. Synthetic data are generated from a 2D plane-strain numerical model, and bagging is applied to the neural network to improve generalization."
