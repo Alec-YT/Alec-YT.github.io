@@ -10,7 +10,7 @@ authors:
   - name: "Chloé Arson"
 header:
   teaser: "publications/u_var_current_next_step_2_extensometer_mode.png"
-date: 2025-12-15
+date: "2025-12-15" 
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2511.20574'
 bibtex: |
