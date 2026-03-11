@@ -7,7 +7,7 @@ category: manuscripts
 authors:
 - name: "Alec Tristani"
   Hightligh = True
-- name: "Lina-Mar{\'\i}a Guayac{\'a}n-Carrillo"
+- name: "Lina-María Guayacán-Carrillo"
 - name: "Jean Sulem"
 header:
   teaser: "publications/bagging.png"
