@@ -1,7 +1,7 @@
 ---
 title: "Enriching tunnel behavior analysis with artificial intelligence tools"
 collection: publications
-category: thesis
+category: manuscripts
 permalink: /publication/2025-10-phd-thesis
 authors: 
   - name: "Alec Tristani"
