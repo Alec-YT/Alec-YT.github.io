@@ -4,6 +4,11 @@ category: manuscripts
 permalink: /publication/2024-11-15-test
 collection: publications
 category: manuscripts
+authors:
+ - "Alec Tristani"
+  Hightligh = True
+- Lina-Mar{\'\i}a Guayac{\'a}n-Carrillo,
+- Jean Sulem
 header:
   teaser: "publications/bagging.png"
 excerpt: 'A methodology is presented for training machine learning surrogate models in the context of tunneling. In particular, bagging is applied to neural networks and synthetic datasets are created to predict the ground-lining interaction as well as the extrusion of the face of deep tunnels excavated in elastoplastic grounds.'
