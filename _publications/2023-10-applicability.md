@@ -12,7 +12,7 @@ header:
   teaser: "publications/Bagging_members_model_3.png"
 excerpt: 'A machine learning surrogate model is developed to predict the short-term ground-lining interaction of deep tunnels. Synthetic data is generated based on a 2D axisymetric numerical model. Bagging is applied to neural network to enhance generalization.'
 date: 2023-10-15
-venue: 'ISRM 2023 in Salzburg'
+venue: 'ISRM in Salzburg'
 paperurl: 'https://onepetro.org/isrmcongress/proceedings-abstract/CONGRESS23/CONGRESS23/540075'
 bibtex: |
   @inproceedings{tristani2023applicability,
