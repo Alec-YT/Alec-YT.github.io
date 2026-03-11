@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-08-15-paper-title-number-4
 authors:
   - name: "Alec Tristani"
-    hightligh: true
+    highlight: true
   - name: "Jean Sulem"
   - name: "Lina-María Guayacán-Carrillo"
 header:
