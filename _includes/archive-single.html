@@ -93,7 +93,7 @@
           {% if post.category == "thesis" %}
             {{ post.date | date: "%-d %B %Y" }}
           {% else %}
-            {{ post.date | default: "1900-01-01" | date: "%Y" }}
+            {{ post.date | date: "%B %Y" }}
           {% endif %}
         </p>
 
