@@ -9,7 +9,6 @@ authors:
   - name: "Chloé Arson"
 header:
   teaser: "publications/u_var_current_next_step_2_extensometer_mode.png"
-excerpt: 'We train a physics-informed neural network using active learning to query the most informative sensors during tunnel excavation in transversely isotropic elastic grounds. Results demonstrate excellent performance on small and scattered datasets and show robustness to small to moderate levels of noise in the data.'
 date: 2025-12-15
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2511.20574'
@@ -23,5 +22,5 @@ bibtex: |
   }
 codeurl: 'https://github.com/Alec-YT/AL-Tunnel'
 abstract: |
-  Bla bla bla
+  This paper presents a deep learning strategy to simultaneously solve Partial Differential Equations (PDEs) and back-calculate their parameters in the context of deep tunnel excavation. A Physics-Informed Neural Network (PINN) model is trained with synthetic data that emulates in situ displacement measurements in the host rock and at the cavity wall, obtained from extensometers and convergence monitoring. As acquiring field observations can be costly, a sequential training approach based on active learning is implemented to determine the most informative locations for new sensors. In particular, Monte Carlo dropout is used to quantify epistemic uncertainty and query measurements in regions where the model is least confident. This approach reduces the amount of required field data and optimizes sensor placement. The PINN is tested to reconstruct the displacement field around a deep tunnel of circular section excavated in transversely isotropic elastic rock and to determine rock constitutive and stress-field parameters. Results demonstrate excellent performance on small, scattered, and noisy datasets, achieving high precision for the Young's moduli, shear modulus, horizontal-to-vertical far-field stress ratio, and the orientation of the bedding planes. The proposed framework shall ultimately support decision-making for optimal subsurface monitoring and for adaptive tunnel design and control.
 ---
