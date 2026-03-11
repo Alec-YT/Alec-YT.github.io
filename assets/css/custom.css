@@ -34,9 +34,9 @@
 }
 
 /* Mode sombre */
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
   .abstract-block {
-    background: #1e1e1e; /* gris très foncé */
-    color: #f0f0f0;      /* texte clair */
+    background: #1e1e1e; 
+    color: #f0f0f0;      
   }
-}
+} */
