@@ -3,6 +3,7 @@ title: "Active learning with physics-informed neural networks for optimal sensor
 collection: publications
 category: manuscripts
 permalink: /publication/2025-11-Active-Learning-number-1
+excerpt: 'We train a physics-informed neural network using active learning to query the most informative sensors during tunnel excavation in transversely isotropic elastic grounds. Results demonstrate excellent performance on small and scattered datasets and show robustness to small to moderate levels of noise in the data.'
 authors: 
   - name: "Alec Tristani"
     highlight: true
