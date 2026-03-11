@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2024-10-15-paper-number-1
 authors:
   - name: "Alec Tristani"
-    hightligh: true
+    highlight: true
   - name: "Jean Sulem"
   - name: "Lina-María Guayacán-Carrillo"
 header:
