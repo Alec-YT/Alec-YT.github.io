@@ -4,10 +4,10 @@ collection: publications
 category: conferences
 permalink: /publication/2025-06-15-paper-title-number-4
 authors:
-- name: "Alec Tristani"
-  highlight: true
-- name: "Lina-María Guayacán-Carrillo"
-- name: "Jean Sulem"
+  - name: "Alec Tristani"
+    highlight: true
+  - name: "Lina-María Guayacán-Carrillo"
+  - name: "Jean Sulem"
 header:
   teaser: "publications/2D_model_zoom_in_annotated.png"
 excerpt: "A physics-informed machine learning algorithm is developed to predict the long-term ground-lining interaction of deep tunnels. Synthetic data are generated from a 2D plane-strain numerical model, and bagging is applied to the neural network to improve generalization."
@@ -23,5 +23,7 @@ bibtex: |
     year={2025},
     organization={ARMA},
     doi={https://doi.org/10.56952/ARMA-2025-0533}
-  }
+  } 
+abstract:
+  This paper presents a physics-informed machine learning approach for predicting the long-term ground-lining interaction during tunneling. Two-dimensional numerical modeling is performed to generate a synthetic dataset. The rheological model consists of a Zener viscoelastic plastic component (for the deviatoric behavior) and an elastoplastic component (for the volumetric behavior). A Mohr-Coulomb criterion assuming perfect plasticity is used. Instantaneous excavation is assumed, followed by creep activation to simulate the time-dependent effects. Since data is synthetic, a large range of configurations is covered and a random uniform sampling is conducted. An ensemble learning approach is used to enhance the model's generalization by applying the bagging technique to neural networks. The results demonstrate that the ensemble model effectively reduces the variance and achieves lower prediction errors compared to a single model. Furthermore, very good performances are obtained using the relatively scarce dataset. Given its ability to perform fast computations, this machine learning surrogate model could be useful for conducting sensitivity analyses and shows potential for providing real-time assistance during the excavation phase.
 ---
