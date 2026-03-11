@@ -6,7 +6,7 @@ collection: publications
 category: manuscripts
 authors:
 - name: "Alec Tristani"
-  Hightligh = True
+  Hightligh: True
 - name: "Lina-María Guayacán-Carrillo"
 - name: "Jean Sulem"
 header:
