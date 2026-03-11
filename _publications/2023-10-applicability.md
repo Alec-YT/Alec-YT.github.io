@@ -23,6 +23,6 @@ bibtex: |
     year={2023},
     organization={ISRM}
   }
-  abstract: |
+abstract: |
   Simplified 2D analysis of ground support interaction using the convergence-confinement method, although useful in preliminary stages of tunnel design, may be inadequate for complex situations which necessitate 3D numerical simulations with high computational efforts and costs. An alternative approach based on machine learning is proposed here in order to evaluate the stresses and displacements at equilibrium in the lining of a supported tunnel. Based on data previously obtained by numerical simulations, the Bagging Method applied to Artificial Neural Networks (ANNs) is used. We consider a circular tunnel excavated in a Mohr-Coulomb elastoplastic medium. The analysis accounts for a large range of ground conditions, support characteristics, lay distances and tunnel radius. The results show that ANNs models perform well with the small dataset used here and can be considered as a useful alternative to complex 3D numerical simulations.
 ---
