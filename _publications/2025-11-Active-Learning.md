@@ -11,7 +11,7 @@ authors:
 header:
   teaser: "publications/u_var_current_next_step_2_extensometer_mode.png"
 date: "2026-05-27" 
-venue: 'Tunnelling and Underground Space Technology, 175'
+venue: 'Tunnelling and Underground Space Technology'
 paperurl: 'https://doi.org/10.1016/j.tust.2026.107806'
 arxiv: 'https://arxiv.org/abs/2511.20574'
 bibtex: |
