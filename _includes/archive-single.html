@@ -126,6 +126,14 @@
             </a>
           {% endif %}
 
+          {% if post.arxiv %}
+            <a href="{{ post.arxiv }}" target="_blank"
+               style="padding: 4px 14px; background: #B31B1B; color: white;
+                      border-radius: 4px; font-size: 0.82em; text-decoration: none;">
+              arXiv
+            </a>
+          {% endif %}
+
           {% if post.codeurl %}
             <a href="{{ post.codeurl }}" target="_blank"
                style="padding: 4px 14px; background: #24292e; color: white;
