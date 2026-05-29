@@ -13,7 +13,7 @@ header:
 date: "2026-05-27" 
 venue: 'Tunnelling and Underground Space Technology, 175'
 paperurl: 'https://doi.org/10.1016/j.tust.2026.107806'
-paperurl: 'https://arxiv.org/abs/2511.20574'
+arxiv: 'https://arxiv.org/abs/2511.20574'
 bibtex: |
   @article{tristani2025activelearning,
     title={Active learning with physics-informed neural networks for optimal sensor placement in deep tunneling through transversely isotropic elastic rocks},
