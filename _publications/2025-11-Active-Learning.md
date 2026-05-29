@@ -10,8 +10,9 @@ authors:
   - name: "Chloé Arson"
 header:
   teaser: "publications/u_var_current_next_step_2_extensometer_mode.png"
-date: "2025-12-15" 
-venue: 'arXiv'
+date: "2026-05-27" 
+venue: 'Tunnelling and Underground Space Technology, 175'
+paperurl: 'https://doi.org/10.1016/j.tust.2026.107806'
 paperurl: 'https://arxiv.org/abs/2511.20574'
 bibtex: |
   @article{tristani2025activelearning,
